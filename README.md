@@ -21,7 +21,7 @@ REPOSITORY STRUCTURE
 - requirements.txt
   Python package requirements.
 
-- whale_environment.yml
+- NixMoo.yml
   Conda environment specification.
 
 DATA SOURCES
@@ -43,7 +43,7 @@ The notebook is organized so the setup, constants, paths, and data-loading steps
 
 To reproduce the analysis:
 
-conda env create -f whale_environment.yml
+conda env create -f NixMoo.yml
 conda activate whale_spue_analysis
 jupyter lab
 
