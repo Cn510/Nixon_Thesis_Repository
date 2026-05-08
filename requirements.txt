@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+xarray
+cartopy
+cmocean
+scipy
+scikit-posthocs
+jupyter
+notebook

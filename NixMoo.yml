@@ -1,0 +1,23 @@
+name: NixMoo
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - cmocean
+  - cf_xarray
+  - numpy
+  - pandas
+  - erddapy
+  - python
+  - matplotlib
+  - dask
+  - cartopy
+  - netcdf4
+  - xroms
+  - scipy
+  - numba
+  - xarray
+  - xgcm
+  - seawater
+  - seaborn
+prefix: C:\Users\india\Miniconda3\envs\NixMoo
